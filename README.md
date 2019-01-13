@@ -57,3 +57,11 @@ Googling is going to be your friend.  In this moment and for always. If however 
 Javascript has a [Global Date Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 Heroku CLI makes deployment [a snap](https://devcenter.heroku.com/articles/git#creating-a-heroku-remote)
+
+You will need to refresh the page to see your changes
+
+### Last thing
+
+At the moment, hopefully this does not change, we do not give out grades.  That being said these assessments are meant to give you and us an idea of where you are and what skills you have gained. Given this framework and the skills you have gained so far you should not be able to figure this out.
+
+Feel free to ask questions, in slack email or wherever, don't expect complete answers, but breadcrumbs, yeh we can do that.
