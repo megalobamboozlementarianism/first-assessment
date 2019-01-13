@@ -1,3 +1,33 @@
 body {
-  background-color: red;
+  background-color: lightslategray;
+}
+h1 {
+  text-align: center;
+}
+.header {
+  border-bottom: 2px solid red;
+}
+.mid-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.left {
+  background-color: lightsteelblue;
+}
+.right {
+  background-color: lightseagreen;
+  height: 10rem;
+}
+.image-title {
+  text-align: center;
+}
+.box {
+  padding: 3rem;
+  margin: 2rem;
+  border-radius: 0.2rem;
+  -webkit-box-shadow: 10px 10px 7px -8px rgba(176,173,176,0.68);
+  -moz-box-shadow: 10px 10px 7px -8px rgba(176,173,176,0.68);
+  box-shadow: 10px 10px 7px -8px rgba(176,173,176,0.68);
 }
