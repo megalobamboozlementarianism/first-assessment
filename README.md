@@ -62,6 +62,6 @@ You will need to refresh the page to see your changes
 
 ### Last thing
 
-At the moment, hopefully this does not change, we do not give out grades.  That being said these assessments are meant to give you and us an idea of where you are and what skills you have gained. Given this framework and the skills you have gained so far you should not be able to figure this out.
+At the moment, hopefully this does not change, we do not give out grades.  That being said these assessments are meant to give you and us an idea of where you are and what skills you have gained.
 
 Feel free to ask questions, in slack email or wherever, don't expect complete answers, but breadcrumbs, yeh we can do that.
