@@ -1,4 +1,4 @@
-# Assesment One
+# Assessment One
 
 This assesment should be turned in before class and requires that you have completed the list of pre-work [assets](https://github.com/Montana-Code-School/Setup-Prework/blob/master/MISSOULA_FT.md#summary-checklist).  Without the things in this list this repo will not work properly.
 
@@ -6,7 +6,7 @@ This assesment should be turned in before class and requires that you have compl
 
 ### Install and start your server
 
-You are reading this, so there is the assumption that you have [forked](https://help.github.com/articles/fork-a-repo/) and cloned this repo if that is not the case then `cd` into your code folder and run `git clone <remote path>`.  the remote bit at the end there is a common placeholder and should be replaced with something like this:  `git@github.com:<your username>/first-assesment.git`
+You are reading this, so there is the assumption that you have [forked](https://help.github.com/articles/fork-a-repo/) and cloned this repo if that is not the case then `cd` into your code folder and run `git clone <remote path>`.  the remote path bit at the end there is a common placeholder and should be replaced with something like this:  `git@github.com:<your username>/first-assesment.git`
 
 If you have cloned it, rad, `cd` into it and run
 
